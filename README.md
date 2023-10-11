@@ -1,4 +1,5 @@
-# Irish-Wind-Market-Electricity-Price-Prediction-using-by-Time-Series-Data
+Day-ahead Electricity Price Forecasting on Irish Wind Market using Time Series Models
+
 Applied cutting-edge machine learning techniques and feature engineering to predict Irish electricityprices for the pre-COVID-19 period (2018-2020). 
 Achieved a remarkable error rate reduction of 3-5%, resulting inthe creation of a comprehensive thesis.
 
